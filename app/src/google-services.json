@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045572964544",
+    "firebase_url": "https://traca-226821.firebaseio.com",
+    "project_id": "traca-226821",
+    "storage_bucket": "traca-226821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045572964544:android:4b5a78344b55ccb3",
+        "android_client_info": {
+          "package_name": "com.estimote.proximity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045572964544-qstplgp9lprmeu1gm5dd49m383jcmtb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Z4Xj5dyiqwAjamh-RQ7QVSd4uQkmq64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
